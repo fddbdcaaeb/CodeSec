@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CodeSec.Runtime" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IgnoreAssemblies" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;mscorlib&lt;/string&gt;
+  &lt;string&gt;mscorlib.resources&lt;/string&gt;
+  &lt;string&gt;vshost32&lt;/string&gt;
+  &lt;string&gt;System&lt;/string&gt;
+  &lt;string&gt;System.Core&lt;/string&gt;
+  &lt;string&gt;System.Data&lt;/string&gt;
+  &lt;string&gt;System.Net.Http&lt;/string&gt;
+  &lt;string&gt;System.Drawing&lt;/string&gt;
+  &lt;string&gt;System.Windows.Forms&lt;/string&gt;
+  &lt;string&gt;System.Xml&lt;/string&gt;
+  &lt;string&gt;System.Xml.Linq&lt;/string&gt;
+  &lt;string&gt;System.Data.DataSetExtensions&lt;/string&gt;
+  &lt;string&gt;Microsoft.CSharp&lt;/string&gt;
+  &lt;string&gt;Microsoft.VisualStudio.Debugger.Runtime&lt;/string&gt;
+  &lt;string&gt;Microsoft.VisualStudio.HostingProcess.Utilities&lt;/string&gt;
+  &lt;string&gt;Microsoft.VisualStudio.HostingProcess.Utilities.Sync&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
